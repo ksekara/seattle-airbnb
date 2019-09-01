@@ -31,7 +31,7 @@ For this project, I was interestested in using Seattle Airbnb data to better und
 
 There is one notebook available here to address the questions above.
 
-Please note that the notebook utilizes Plotly for a majority of the visualizations. Dependencies for doing so on your own local machine are mentioned above in the Installations section. The Plotly visualizations' output will not appear when viewing in Github, so please go to NBViewer at the following address: 
+Please note that the notebook utilizes Plotly for a majority of the visualizations. Dependencies for doing so on your own local machine are mentioned above in the Installations section. The Plotly visualizations' output will not appear when viewing in Github, so please go to NBViewer at the following address: https://nbviewer.jupyter.org/github/taylorplumer/seattle-airbnb/blob/master/seattle_airbnb_listings.ipynb
 
 The data is in the listings.csv file, which was downloaded from [Kaggle](https://www.kaggle.com/airbnb/seattle).
 
