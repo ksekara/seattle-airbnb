@@ -29,6 +29,10 @@ For this project, I was interestested in using Seattle Airbnb data to better und
 
 ## File Descriptions <a name="files"></a>
 
+There is one notebook available here to address the questions above.
+
+Please note that the notebook utilizes Plotly for a majority of the visualizations. Dependencies for doing so on your own local machine are mentioned above in the Installations section. The Plotly visualizations' output will not appear when viewing in Github, so please go to NBViewer at the following address: 
+
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
